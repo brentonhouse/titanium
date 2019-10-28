@@ -63,7 +63,7 @@
 		"danger": "^9.2.1",
 		"eslint": "^6.5.1",
 		"eslint-config-axway": "^4.3.0",
-		"eslint-plugin-mocha": "^6.2.0",
+		"eslint-plugin-mocha": "^6.2.1",
 		"fs-extra": "^8.1.0",
 		"husky": "^3.0.9",
 		"lint-staged": "^9.4.2",
